@@ -31,3 +31,4 @@ Some items I did not have time to complete/include:
 * Streaming the data from the Front-End to the Back-End
 * Containerize the project
 * Restructure project to avoid seperate module loading
+* Add features to the application to make it more attractive
