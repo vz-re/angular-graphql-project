@@ -1,0 +1,9 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.divFooter {
+  position: fixed;
+  height: 150px; /* put the image height here */
+  bottom: 0;
+}

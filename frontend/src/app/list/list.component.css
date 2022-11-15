@@ -1,0 +1,49 @@
+.form {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mat-card-search {
+  width: 50%;
+}
+
+.element-detail {
+  overflow: hidden;
+  display: flex;
+}
+
+.element-row td {
+  border-bottom-width: 0;
+}
+
+.element-row td {
+  border-bottom-width: 0;
+}
+
+tr.detail-row {
+  height: 0;
+}
+
+table {
+  width: 100%;
+}
+
+.table-container {
+  justify-content: center;
+  margin-top: 10px;
+  max-height: 450px;
+  overflow: auto;
+}
+
+mat-card-header {
+  height: 50px;
+  width: 100%;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+
