@@ -28,8 +28,8 @@ import { HomepageComponent } from './homepage/homepage.component';
 const routes: Routes = [
   {path: 'home', component: HomepageComponent},
   {path: 'list', component: ListComponent},
-  {path: '', redirectTo: 'list', pathMatch: 'full'},
-  {path: '**', redirectTo: 'list'}
+  {path: '', redirectTo: 'home', pathMatch: 'full'},
+  {path: '**', redirectTo: 'home'}
 ]
 
 @NgModule({
